@@ -27,7 +27,7 @@ numpy==1.15.4
 oauth2client==1.5.2
 olefile==0.46
 pandas==0.23.4
-paramiko==2.4.2
+paramiko==2.10.1
 plac==0.9.6
 preshed==1.0.1
 protobuf==3.6.0
