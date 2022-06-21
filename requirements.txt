@@ -23,7 +23,7 @@ matplotlib==3.0.2
 more-itertools==4.3.0
 msgpack==0.5.6
 murmurhash==0.28.0
-numpy==1.15.4
+numpy==1.22.0
 oauth2client==1.5.2
 olefile==0.46
 pandas==0.23.4
